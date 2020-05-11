@@ -1,0 +1,6 @@
+[kubernetes-master-nodes]
+kubermaster.ziyotek.local 192.168.1.248
+
+[kubernetes-worker-nodes]
+kuberworker1.ziyotek.local 192.168.1.249
+kuberworker2.ziyotek.local 192.168.1.250
